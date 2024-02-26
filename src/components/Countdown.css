@@ -1,0 +1,10 @@
+input{
+    border: none;
+}
+
+#submit{
+    padding: 5px;
+    color: white;
+    background-color: cadetblue;
+    margin-left: 10px;
+}
